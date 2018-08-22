@@ -13,5 +13,5 @@ eureka:
 env:
   dev2
 girl:
-  name: lila
+  name: mike
   age: 4
